@@ -1,0 +1,4 @@
+1. "Before Machine Learning - Linear Algebra"
+2. "Before Machine Learning - Calculus"
+3. "Before Machine Learning - Statistics"
+4. An Introduction to Statistical Learning
